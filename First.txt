@@ -1,0 +1,9 @@
+This is my first folder.
+I want to track this file.
+I want to modify this file.
+I want to check the difference of files.
+I am making some changes here.
+Merge Conflict!!!
+
+Thanks!!!
+For reading this file...!!!
